@@ -10,6 +10,8 @@ namespace NetFrameWork.WebSite.Controllers
     {
         public ActionResult Index()
         {
+
+
             //注释测试 远程
             return View();  
         }
